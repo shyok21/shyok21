@@ -1,5 +1,5 @@
 # Hi, I'm Shyok 👋
-### Backend Engineer | TypeScript & Node.js Specialist Proficient in Python | Comfortable with C, C++, Java | OSS Contributor | Strong Systems Thinking
+### Backend Engineer | TypeScript & Node.js Specialist | Proficient in Python | Comfortable with C, C++, Java | OSS Contributor | Strong Systems Thinking
 
 - 🔭 I’m contributing to open-source projects like `dotenv`, `lodash`, `numpy` etc.
 - ⚙️ Actively contributing to backend libraries and developer tools in the Node.js & Python ecosystem
