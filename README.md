@@ -19,6 +19,11 @@ I'm currently contributing to:
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+
 **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -47,8 +52,6 @@ I'm currently contributing to:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyok21&layout=compact&theme=tokyonight" width="33%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shyok21&show_icons=true&theme=tokyonight&count_private=true" width="33%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyok21&theme=tokyonight&hide_border=true" width="33%"/>
 </p>
 
 ---
