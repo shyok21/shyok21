@@ -42,18 +42,21 @@ I'm currently contributing to:
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-999999?style=for-the-badge)
 
-**Performance Testing**  
+**Performance Testing**
 ![Artillery](https://img.shields.io/badge/Artillery-E10098?style=for-the-badge)
 ![Benchmark.js](https://img.shields.io/badge/Benchmark.js-323330?style=for-the-badge)
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 
 
 ### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyok21&layout=compact&theme=tokyonight" width="33%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyok21&layout=compact&theme=tokyonight" width="70%"/>
 </p>
 
+### GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shyok21&theme=onedark&column=6" width="60%">
+</p>
 ---
 
 ### 🌐 Connect with Me
